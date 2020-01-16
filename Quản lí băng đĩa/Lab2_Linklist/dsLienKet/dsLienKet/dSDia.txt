@@ -1,0 +1,261 @@
+5
+phim hanh dong
+10
+hd01
+phim 01
+1998
+nguoi qua duong A
+quan chung B, tieu binh C
+hd02
+phim 02
+1999
+nguoi qua duong A
+quan chung B, tieu binh C
+hd03
+phim 03
+2000
+nguoi qua duong A
+quan chung B, tieu binh C
+hd04
+phim 04
+2001
+nguoi qua duong A
+quan chung B, tieu binh C
+hd05
+phim 05
+2002
+nguoi qua duong A
+quan chung B, tieu binh C
+hd06
+phim 06
+2003
+nguoi qua duong A
+quan chung B, tieu binh C
+hd07
+phim 07
+2004
+nguoi qua duong A
+quan chung B, tieu binh C
+hd08
+phim 08
+2005
+nguoi qua duong A
+quan chung B, tieu binh C
+hd09
+phim 09
+2006
+nguoi qua duong A
+quan chung B, tieu binh C
+hd10
+phim 10
+2007
+nguoi qua duong A
+quan chung B, tieu binh C
+phim tinh cam
+10
+tc01
+phim 11
+1998
+nguoi qua duong A
+quan chung B, tieu binh C
+tc02
+phim 12
+1999
+nguoi qua duong A
+quan chung B, tieu binh C
+tc03
+phim 13
+2000
+nguoi qua duong A
+quan chung B, tieu binh C
+tc04
+phim 14
+2001
+nguoi qua duong A
+quan chung B, tieu binh C
+tc05
+phim 15
+2002
+nguoi qua duong A
+quan chung B, tieu binh C
+tc06
+phim 16
+2003
+nguoi qua duong A
+quan chung B, tieu binh C
+tc07
+phim 17
+2004
+nguoi qua duong A
+quan chung B, tieu binh C
+tc08
+phim 18
+2005
+nguoi qua duong A
+quan chung B, tieu binh C
+tc09
+phim 19
+2006
+nguoi qua duong A
+quan chung B, tieu binh C
+tc10
+phim 20
+2007
+nguoi qua duong A
+quan chung B, tieu binh C
+phim hai huoc
+10
+hh01
+phim 21
+1998
+nguoi qua duong A
+quan chung B, tieu binh C
+hh02
+phim 22
+1999
+nguoi qua duong A
+quan chung B, tieu binh C
+hh03
+phim 23
+2000
+nguoi qua duong A
+quan chung B, tieu binh C
+hh04
+phim 24
+2001
+nguoi qua duong A
+quan chung B, tieu binh C
+hh05
+phim 25
+2002
+nguoi qua duong A
+quan chung B, tieu binh C
+hh06
+phim 26
+2003
+nguoi qua duong A
+quan chung B, tieu binh C
+hh07
+phim 27
+2004
+nguoi qua duong A
+quan chung B, tieu binh C
+hh08
+phim 28
+2005
+nguoi qua duong A
+quan chung B, tieu binh C
+hh09
+phim 29
+2006
+nguoi qua duong A
+quan chung B, tieu binh C
+hh10
+phim 30
+2007
+nguoi qua duong A
+quan chung B, tieu binh C
+phim kinh di
+10
+kd01
+phim 31
+1998
+nguoi qua duong A
+quan chung B, tieu binh C
+kd02
+phim 32
+1999
+nguoi qua duong A
+quan chung B, tieu binh C
+kd03
+phim 33
+2000
+nguoi qua duong A
+quan chung B, tieu binh C
+kd04
+phim 34
+2001
+nguoi qua duong A
+quan chung B, tieu binh C
+kd05
+phim 35
+2002
+nguoi qua duong A
+quan chung B, tieu binh C
+kd06
+phim 36
+2003
+nguoi qua duong A
+quan chung B, tieu binh C
+kd07
+phim 37
+2004
+nguoi qua duong A
+quan chung B, tieu binh C
+kd08
+phim 38
+2005
+nguoi qua duong A
+quan chung B, tieu binh C
+kd09
+phim 39
+2006
+nguoi qua duong A
+quan chung B, tieu binh C
+kd10
+phim 40
+2007
+nguoi qua duong A
+quan chung B, tieu binh C
+phim vo thuat
+10
+vt01
+phim 41
+1998
+nguoi qua duong A
+quan chung B, tieu binh C
+vt02
+phim 42
+1999
+nguoi qua duong A
+quan chung B, tieu binh C
+vt03
+phim 43
+2000
+nguoi qua duong A
+quan chung B, tieu binh C
+vt04
+phim 44
+2001
+nguoi qua duong A
+quan chung B, tieu binh C
+vt05
+phim 45
+2002
+nguoi qua duong A
+quan chung B, tieu binh C
+vt06
+phim 46
+2003
+nguoi qua duong A
+quan chung B, tieu binh C
+vt07
+phim 47
+2004
+nguoi qua duong A
+quan chung B, tieu binh C
+vt08
+phim 48
+2005
+nguoi qua duong A
+quan chung B, tieu binh C
+vt09
+phim 49
+2006
+nguoi qua duong A
+quan chung B, tieu binh C
+vt10
+phim 50
+2007
+nguoi qua duong A
+quan chung B, tieu binh C

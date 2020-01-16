@@ -1,0 +1,31 @@
+c:/users/thanhnha/documents/visual studio 2013/Projects/Matrix/Matrix/bin/Debug/Matrix.exe.config
+c:/users/thanhnha/documents/visual studio 2013/Projects/Matrix/Matrix/bin/Debug/Matrix.exe
+c:/users/thanhnha/documents/visual studio 2013/Projects/Matrix/Matrix/bin/Debug/Matrix.pdb
+c:/users/thanhnha/documents/visual studio 2013/Projects/Matrix/Matrix/obj/Debug/Matrix.csprojResolveAssemblyReference.cache
+c:/users/thanhnha/documents/visual studio 2013/Projects/Matrix/Matrix/obj/Debug/D16TH05.Form1.resources
+c:/users/thanhnha/documents/visual studio 2013/Projects/Matrix/Matrix/obj/Debug/Matrix.Properties.Resources.resources
+c:/users/thanhnha/documents/visual studio 2013/Projects/Matrix/Matrix/obj/Debug/Matrix.csproj.GenerateResource.Cache
+c:/users/thanhnha/documents/visual studio 2013/Projects/Matrix/Matrix/obj/Debug/Matrix.exe
+c:/users/thanhnha/documents/visual studio 2013/Projects/Matrix/Matrix/obj/Debug/Matrix.pdb
+/home/unknownfx02/Downloads/Matrix/Matrix/Matrix/bin/Debug/Matrix.exe.config
+/home/unknownfx02/Downloads/Matrix/Matrix/Matrix/bin/Debug/Matrix.exe
+/home/unknownfx02/Downloads/Matrix/Matrix/Matrix/bin/Debug/Matrix.pdb
+/home/unknownfx02/Downloads/Matrix/Matrix/Matrix/obj/Debug/Matrix.csprojAssemblyReference.cache
+/home/unknownfx02/Downloads/Matrix/Matrix/Matrix/obj/Debug/D16TH05.Form1.resources
+/home/unknownfx02/Downloads/Matrix/Matrix/Matrix/obj/Debug/Matrix.Properties.Resources.resources
+/home/unknownfx02/Downloads/Matrix/Matrix/Matrix/obj/Debug/Matrix.csproj.GenerateResource.cache
+/home/unknownfx02/Downloads/Matrix/Matrix/Matrix/obj/Debug/Matrix.csproj.CoreCompileInputs.cache
+/home/unknownfx02/Downloads/Matrix/Matrix/Matrix/obj/Debug/Matrix.exe
+/home/unknownfx02/Downloads/Matrix/Matrix/Matrix/obj/Debug/Matrix.pdb
+C:\Users\Quoc Dat\Downloads\Compressed\Matrix\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Quoc Dat\Downloads\Compressed\Matrix\Matrix\obj\Debug\Matrix.exe
+C:\Users\Quoc Dat\Downloads\Compressed\Matrix\Matrix\obj\Debug\Matrix.pdb
+C:\Users\Quoc Dat\Downloads\Compressed\Matrix\Matrix\bin\Debug\Matrix.exe
+C:\Users\Quoc Dat\Downloads\Compressed\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Quoc Dat\Downloads\Compressed\Matrix\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Quoc Dat\Downloads\Compressed\Matrix\Matrix\obj\Debug\D16TH05.Form1.resources
+C:\Users\Quoc Dat\Downloads\Compressed\Matrix\Matrix\obj\Debug\Matrix.Properties.Resources.resources
+C:\Users\Quoc Dat\Downloads\Compressed\Matrix\Matrix\obj\Debug\Matrix.csproj.GenerateResource.Cache
+C:\Users\Quoc Dat\Desktop\DATH-Nguyen Hoang Phuong Dai-Nguyen Tuan Huy\Vẽ đồ thị ma trận\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Quoc Dat\Desktop\DATH-Nguyen Hoang Phuong Dai-Nguyen Tuan Huy\Vẽ đồ thị ma trận\Matrix\obj\Debug\Matrix.exe
+C:\Users\Quoc Dat\Desktop\DATH-Nguyen Hoang Phuong Dai-Nguyen Tuan Huy\Vẽ đồ thị ma trận\Matrix\obj\Debug\Matrix.pdb
